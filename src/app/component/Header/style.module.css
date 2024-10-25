@@ -1,0 +1,21 @@
+.header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+  }
+
+.header h1{
+    color: black;
+    font-size: 40px;
+    
+}
+  
+  .header nav a {
+    margin: 0 15px;
+    color: white;
+}
+  
+  .header nav a :hover {
+    text-decoration: none;
+  }
+  
